@@ -44,3 +44,8 @@
 2. **运行测试文件**
    - 修改路径，传入实际路径，运行文件：test.py
 
+## 🚀 实际部署
+
+传入最新的 json_path 和 mss_path 参数，系统会自动加载模型并输出交易信号，直接运行 factor_function.py 中的因子函数 factor_function 来进行预测。
+
+
